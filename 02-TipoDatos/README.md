@@ -11,11 +11,11 @@ char, unsigned, int, double, y string. Mostrarlas por pantalla.
 
 Léxico del Algoritmo:
 a,b E B.
-e,f E ?
-g.h E N
-i,j E Z
-k,l E R
-c,d E ?*
+e,f E ?.
+g.h E N.
+i,j E Z.
+k,l E R.
+c,d E ?* 
 
 
 Representación textual:
