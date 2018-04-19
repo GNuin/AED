@@ -10,7 +10,13 @@ char, unsigned, int, double, y string. Mostrarlas por pantalla.
 ![Alt text](img/IPOTipoDatos.jpg)
 
 Léxico del Algoritmo:
-a,b E Z
+a,b E B.
+e,f E ?
+g.h E N
+i,j E Z
+k,l E R
+c,d E ?*
+
 
 Representación textual:
 1) Mostrar b.
