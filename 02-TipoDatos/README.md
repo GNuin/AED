@@ -1,24 +1,29 @@
 # CppTipoDatos
 
 Problema:
-Dise�ar un programa C++ que ejemplifique la aplicaci�n de los tipos de datos vistos en clases.
+Diseñar un programa C++ que ejemplifique la aplicación de los tipos de datos vistos en clases.
 
-Realizar operaciones con datos del tipo bool,
-char, unsigned, int, double, y string. Mostrarlas por pantalla.
+
+Realizar operaciones con datos del tipo bool,char, unsigned, int, double, y string. Mostrarlas por pantalla.
 
 
 ![Alt text](img/IPOTipoDatos.jpg)
 
-L�xico del Algoritmo:
-a,b E B.
-e,f E ?.
-g.h E N.
-i,j E Z.
-k,l E R.
-c,d E ?* 
+Léxico del Algoritmo:
+a,b ͼ B
+
+e,f ͼ Σ
+
+g.h ͼ N
+
+i,j ͼ Z
+
+k,l ͼ R
+
+c,d ͼ Σ* 
 
 
-Representaci�n textual:
+Representación textual:
 1) Mostrar b.
 2) Mostrar f.
 3) Mostrar h%g.
@@ -26,6 +31,6 @@ Representaci�n textual:
 5) Mostrar k*l.
 6) Mostrar c+d.
 
-Representaci�n visual:
+Representación visual:
 
 ![Alt text](img/Nassi-Shneiderman-TipoDatos.jpg)
